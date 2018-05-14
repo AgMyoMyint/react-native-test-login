@@ -1,0 +1,18 @@
+
+{
+    "login": {
+      "welcome": "SYS မွ ႀကိဳဆိုပါ၏",
+      "login_button": "အေကာင့္၀င္မည္",
+      "email_placeholder" : "အီးေမး႐ိုက္ရန္" , 
+      "password_placeholder" : "လွ်ိဳ ့၀ွက္နံပါတ္႐ိုက္ထည့္ရန္" , 
+      "signup_button": "အေကာင့္သစ္ျပဳလုပ္မည္"
+    },
+    "user_profile": {
+      "title": "Your Profile"  
+    },
+    "string" : {
+        "en" : "အဂၤလိပ္",
+        "un" : "ယူနီကုဒ္",
+        "zj" : "ေဇာ္ဂ်ီ"
+    }
+  }

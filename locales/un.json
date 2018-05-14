@@ -1,0 +1,18 @@
+
+{
+    "login": {
+      "welcome": "SYS မှ ကြိုဆိုပါ၏ ",
+      "login_button": "အကောင့်ဝင်ပါ",
+      "email_placeholder" : "အီးမေးလ်ရိုက်ရန်" , 
+      "password_placeholder" : "လျှို ့ဝှက်နံပါတ်ရိုက်ထည့်ရန်" , 
+      "signup_button": "အကောင့်သစ်ပြုလုပ်မည်"
+    },
+    "user_profile": {
+      "title": "Your Profile"  
+    },
+    "string" : {
+        "en" : "အင်္ဂလိပ်",
+        "un" : "ယူနီကုဒ်",
+        "zj" : "ဇော်ဂျီ"
+    }
+  }

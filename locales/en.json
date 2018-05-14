@@ -1,0 +1,18 @@
+
+{
+    "login": {
+      "welcome": "Welcome to SYS",
+      "login_button": "Login",
+      "email_placeholder" : "Enter email" , 
+      "password_placeholder" : "Enter Password" , 
+      "signup_button": "Sign Up"
+    },
+    "user_profile": {
+      "title": "Your Profile"  
+    },
+    "string" : {
+        "en" : "EN",
+        "un" : "UN",
+        "zj" : "ZJ"
+    }
+  }
